@@ -4,6 +4,7 @@ www.deltastrium.com
 
 Credits:
 ================
+* Jaquadro [For creating StorageDrawers Mod]
 * CeLittle3 [For His Texture Contributions]
 * DrakeBD [For Compiling & Editing the pack]
 
